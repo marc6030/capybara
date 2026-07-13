@@ -448,6 +448,12 @@ nav a:hover {
   font-weight: 900;
 }
 
+.centered-buy-button {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+}
+
 .buy-button {
   width: 100%;
   border: 0;
